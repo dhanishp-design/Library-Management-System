@@ -1,4 +1,4 @@
-# 📚 Library Management System (Java Mini Project)
+# 📚 Library Management System
 
 ## 📌 Project Description
 
