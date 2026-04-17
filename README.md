@@ -19,7 +19,7 @@ This project demonstrates basic concepts of Java programming in a practical and 
 
 ## 🛠️ Technologies Used
 
-* Java (Core Java)
+* Java 
 * OOP Concepts (Class, Object)
 * ArrayList
 * Scanner (for user input)
